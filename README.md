@@ -1,2 +1,2 @@
-# olá mundo
- primeiro repositório  do git-github
+# Olá, Mundo!
+ Primeiro repositório  do git-github
